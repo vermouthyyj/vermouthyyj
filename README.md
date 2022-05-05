@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermouthyyj)](https://github.com/vermouthyyj/github-readme-stats)
 
-![Yujun Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermouthyyj&show_icons=true&theme=tokyonight)
+![Yujun Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermouthyyj&show_icons=true&theme=tokyonight&count_private=true)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

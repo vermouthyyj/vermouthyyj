@@ -14,9 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
+# I'm Yujun Yan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
+- 🔭 I’m currently working on **Citibank**
+- 🌱 I’m currently learning **Frontend Programming**
+- 🤔 I love **Snowboarding, Skateboarding**
+- 💬 Ask me about React, Javascript and my projects
+- 📫 How to reach me: **yanyujun666@gmail.com**
+- 😄 You may like [My Website](https://Rachelyyj.github.io/my-website)
+- ⚡ Fun fact: **Music, Movie**
+- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermouthyyj)](https://github.com/vermouthyyj/github-readme-stats)
 
 
 
-![vermouthyyj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermouthyyj&show_icons=true&theme=tokyonight)
+![Yujun Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermouthyyj&show_icons=true&theme=tokyonight)

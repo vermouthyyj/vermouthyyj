@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I love **Snowboarding, Skateboarding**
 - 💬 Ask me about React, Javascript and my projects
 - 📫 How to reach me: **yanyujun666@gmail.com**
-- 😄 You may like [My Website](https://Rachelyyj.github.io/my-website)
+- 😄 You may like [My Website](https://vermouthyyj.herokuapp.com/)
 - ⚡ Fun fact: **Music, Movie**
 
 # About My Github

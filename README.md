@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Music, Movie**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermouthyyj)](https://github.com/vermouthyyj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermouthyyj&layout=compact)](https://github.com/vermouthyyj/github-readme-stats)
 
 ![Yujun Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermouthyyj&show_icons=true&theme=tokyonight&count_private=true)
 
